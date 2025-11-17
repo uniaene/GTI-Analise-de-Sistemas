@@ -57,10 +57,10 @@ Criar uma experiência visual envolvente e dinâmica para os alunos, resumindo:
 ## 🔐 Área Secreta
 
 A página possui um recurso interativo: um **botão discreto** que revela um campo secreto.  
-Ao digitar o código **GTI2025**, uma mensagem oculta é exibida, junto com um segundo código **criptografado em Base64 UTF-8**, que nunca aparece em texto puro no código-fonte.
+Ao digitar o código **QUE ESTÁ DISPONÍVEL NO CÓDIGO FONTE**, uma mensagem oculta é exibida, junto com um segundo código **criptografado em Base64 UTF-8**, que nunca aparece em texto puro no código-fonte.
 
 ### 🛡 Como funciona a proteção?
-- O segundo código (`GTI-2026-EU_VOU`) **não aparece no HTML**  
+- O segundo código **não aparece no HTML**  
 - Não aparece no JS em texto puro  
 - É armazenado em Base64 e decodificado dinamicamente  
 - O usuário só vê a versão real no navegador
