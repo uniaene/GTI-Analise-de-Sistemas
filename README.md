@@ -19,9 +19,9 @@ Criar uma experiência visual envolvente e dinâmica para os alunos, resumindo:
 
 ## 🌐 Demonstração
 
-*(Adicione o link do GitHub Pages, se quiser hospedar.)*
+*Acesse*
 
-> https://SEU_USUARIO.github.io/NOME_DO_PROJETO/
+> https://uniaene.edu.br/gti2025
 
 ---
 
